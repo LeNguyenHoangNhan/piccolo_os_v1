@@ -8,7 +8,7 @@
  *
  * SPDX-License-Identifier: BSD-3-Clause
  */
- 
+.arch armv6s-m
 .thumb
 .syntax unified
 
